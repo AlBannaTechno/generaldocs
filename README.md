@@ -1,2 +1,0 @@
-# generaldocs
-General Documentation
